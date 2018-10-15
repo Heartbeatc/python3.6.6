@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="946e6790-02e6-4bc9-80bf-c24b86304a37" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/py练习/03 基本数据类型练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/py练习/03 基本数据类型练习.py" afterDir="false" />
-    </list>
+    <list default="true" id="946e6790-02e6-4bc9-80bf-c24b86304a37" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/py练习/03 基本数据类型练习.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="760">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -100,6 +98,11 @@
               <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
               <item name="py练习" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python3.6.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
+              <item name="str" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -149,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539587417293</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交">
+      <created>1539587505538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539587505538</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交">
+      <created>1539587643108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539587643108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -193,7 +210,7 @@
     <entry file="file://$PROJECT_DIR$/py练习/03 基本数据类型练习.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
         </state>
       </provider>
     </entry>
