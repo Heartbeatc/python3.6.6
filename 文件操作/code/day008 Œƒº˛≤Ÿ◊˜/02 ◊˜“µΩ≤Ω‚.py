@@ -35,28 +35,28 @@
 #         收入 = 8000-(4000-2000)*3%-(6000-4000)*4%-(8000-6000)*8%
 # 让用户输入它的工资, 计算最终用户拿到手是多少钱.
 
-# salary = int(input("请输入你的工资:"))
-# if salary <= 2000:
-#     print("你不用交税")
-#     print("你的实际收入是%s" % salary)
-# elif salary <= 4000:
-#     tax = (salary - 2000)*0.03
-#     print("你要交%s税 " % tax)
-#     print("你的实际收入是:%s" % (salary-tax))
-# elif salary <= 6000:
-#     tax = 2000* 0.03 + (salary-4000) * 0.05
-#     print("你要交%s税 " % tax)
-#     print("你的实际收入是:%s" % (salary - tax))
-# elif salary <= 10000:
-#     tax = 2000* 0.03 +  2000*0.05 +(salary - 6000) * 0.08
-#     print("你要交%s税 " % tax)
-#     print("你的实际收入是:%s" % (salary - tax))
-# else:
-#     tax = 2000 * 0.03 + 2000 * 0.05 + 4000 * 0.08 + (salary-10000) * 0.20
-#     print("你要交%s税 " % tax)
-#     print("你的实际收入是:%s" % (salary - tax))
-#
-#
+salary = int(input("请输入你的工资:"))
+if salary <= 2000:
+    print("你不用交税")
+    print("你的实际收入是%s" % salary)
+elif salary <= 4000:
+    tax = (salary - 2000)*0.03
+    print("你要交%s税 " % tax)
+    print("你的实际收入是:%s" % (salary-tax))
+elif salary <= 6000:
+    tax = 2000* 0.03 + (salary-4000) * 0.05
+    print("你要交%s税 " % tax)
+    print("你的实际收入是:%s" % (salary - tax))
+elif salary <= 10000:
+    tax = 2000* 0.03 +  2000*0.05 +(salary - 6000) * 0.08
+    print("你要交%s税 " % tax)
+    print("你的实际收入是:%s" % (salary - tax))
+else:
+    tax = 2000 * 0.03 + 2000 * 0.05 + 4000 * 0.08 + (salary-10000) * 0.20
+    print("你要交%s税 " % tax)
+    print("你的实际收入是:%s" % (salary - tax))
+
+
 
 
 # a = 10

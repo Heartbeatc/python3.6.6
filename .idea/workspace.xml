@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="946e6790-02e6-4bc9-80bf-c24b86304a37" name="Default" comment="" />
+    <list default="true" id="946e6790-02e6-4bc9-80bf-c24b86304a37" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/01 ΩÒ»’ƒ⁄»›¥Û∏Ÿ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/02 ªπ‘≠≥µªˆœ÷≥°.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/03 ◊˜“µ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/04  ∫Ø ˝.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/∏Ì¥ÒÃ¿" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/火锅" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数入门/øŒº˛/09.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数入门/◊˜“µ/day09 ◊˜“µº∞ƒ¨–¥.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数入门/◊˜“µ/~$y09 ◊˜“µº∞ƒ¨–¥.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/09 追加读.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 修改文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/菜单" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict/code/day005  ◊÷µ‰/08  字典的嵌套.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict/code/day005  ◊÷µ‰/08  字典的嵌套.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/01 ΩÒ»’ƒ⁄»›¥Û∏Ÿ" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/01 昨日内容回顾" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/02 ◊˜“µΩ≤Ω‚.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/02 ◊˜“µΩ≤Ω‚.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/03 ª˘±æµƒŒƒº˛≤Ÿ◊˜.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/03 基本文件操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/06 Œƒº˛øΩ±¥.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/06 文件拷贝.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/07 ∂¡–¥ƒ£ Ω.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/07 读写模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/08 –¥∂¡ƒ£ Ω.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/08 写读模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/09 ◊∑º”∂¡.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/10 π‚±Í.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/10 光标.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 –ﬁ∏ƒŒƒº˛.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/13 »’÷æ¥¶¿Ì.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/13 日志处理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/alex" beforeDir="false" afterPath="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/alex" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,15 +35,61 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python3_6_6$13_.coverage" NAME="13 日志处理 Coverage Results" MODIFIED="1539847947785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜" />
+    <SUITE FILE_PATH="coverage/python3_6_6$08__.coverage" NAME="08  字典的嵌套 Coverage Results" MODIFIED="1539852117348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dict/code/day005  ◊÷µ‰" />
+    <SUITE FILE_PATH="coverage/python3_6_6$12_º.coverage" NAME="12 –ﬁ∏ƒŒƒº˛ Coverage Results" MODIFIED="1539852750484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜" />
+    <SUITE FILE_PATH="coverage/python3_6_6$03_µ.coverage" NAME="03 ◊˜“µ Coverage Results" MODIFIED="1539853724756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈" />
+    <SUITE FILE_PATH="coverage/python3_6_6$02_µ.coverage" NAME="02 ◊˜“µΩ≤Ω‚ Coverage Results" MODIFIED="1539588078195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜" />
+    <SUITE FILE_PATH="coverage/python3_6_6$09_º_.coverage" NAME="09 ◊∑º”∂¡ Coverage Results" MODIFIED="1539791843722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜" />
+    <SUITE FILE_PATH="coverage/python3_6_6$05_fromkeys.coverage" NAME="05 fromkeys Coverage Results" MODIFIED="1539852861085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/深浅copy/code/day007 ª˘¥° ˝æ›¿‡–Õ≤π≥‰" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="03 基本数据类型练习.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/py练习/03 基本数据类型练习.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="05 append.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/05 append.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+            <state relative-caret-position="19">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12 修改文件.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 修改文件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04  ∫Ø ˝.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/04  ∫Ø ˝.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="597">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03 ◊˜“µ.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/03 ◊˜“µ.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="∏Ì¥ÒÃ¿" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/∏Ì¥ÒÃ¿">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="火锅" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/火锅">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -32,6 +104,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/py练习/03 基本数据类型练习.py" />
+        <option value="$PROJECT_DIR$/深浅copy/code/day007 ª˘¥° ˝æ›¿‡–Õ≤π≥‰/06 set集合.py" />
+        <option value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/02 ◊˜“µΩ≤Ω‚.py" />
+        <option value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/04 write.py" />
+        <option value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/03 基本文件操作.py" />
+        <option value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/菜单" />
+        <option value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/09 ◊∑º”∂¡.py" />
+        <option value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 –ﬁ∏ƒŒƒº˛.py" />
+        <option value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/13 日志处理.py" />
+        <option value="$PROJECT_DIR$/dict/code/day005  ◊÷µ‰/08  字典的嵌套.py" />
+        <option value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 修改文件.py" />
+        <option value="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/03 ◊˜“µ.py" />
       </list>
     </option>
   </component>
@@ -55,19 +138,20 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-254" />
-    <option name="y" value="-1057" />
+    <option name="y" value="-1080" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1080" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,35 +162,52 @@
             <path>
               <item name="python3.6.6" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="函数入门" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python3.6.6" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="函数入门" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python3.6.6" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="函数入门" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="day004 ¡–±Ì" type="462c0819:PsiDirectoryNode" />
+              <item name="day009 ∫Ø ˝»Î√≈" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python3.6.6" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
-              <item name="py练习" type="462c0819:PsiDirectoryNode" />
+              <item name="文件操作" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python3.6.6" type="b2602c69:ProjectViewProjectNode" />
               <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
-              <item name="str" type="462c0819:PsiDirectoryNode" />
+              <item name="文件操作" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python3.6.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
+              <item name="文件操作" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="day008 Œƒº˛≤Ÿ◊˜" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python3.6.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python3.6.6" type="462c0819:PsiDirectoryNode" />
+              <item name="文件操作" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="day008 Œƒº˛≤Ÿ◊˜" type="462c0819:PsiDirectoryNode" />
+              <item name="b" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -114,6 +215,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,6 +232,119 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.03 ◊˜“µ">
+    <configuration name="03 ◊˜“µ" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3.6.6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/03 ◊˜“µ.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="05 fromkeys" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3.6.6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/深浅copy/code/day007 ª˘¥° ˝æ›¿‡–Õ≤π≥‰" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/深浅copy/code/day007 ª˘¥° ˝æ›¿‡–Õ≤π≥‰/05 fromkeys.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="08  字典的嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3.6.6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dict/code/day005  ◊÷µ‰" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict/code/day005  ◊÷µ‰/08  字典的嵌套.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="12 –ﬁ∏ƒŒƒº˛" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3.6.6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 修改文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="13 日志处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python3.6.6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/13 日志处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.12 –ﬁ∏ƒŒƒº˛" />
+      <item itemvalue="Python.13 日志处理" />
+      <item itemvalue="Python.08  字典的嵌套" />
+      <item itemvalue="Python.05 fromkeys" />
+      <item itemvalue="Python.03 ◊˜“µ" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03 ◊˜“µ" />
+        <item itemvalue="Python.05 fromkeys" />
+        <item itemvalue="Python.12 –ﬁ∏ƒŒƒº˛" />
+        <item itemvalue="Python.08  字典的嵌套" />
+        <item itemvalue="Python.13 日志处理" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -166,34 +385,40 @@
       <option name="project" value="LOCAL" />
       <updated>1539587643108</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="删除一个目录">
+      <created>1539587847647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539587847647</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-254" y="-1057" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="-254" y="-1080" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32892057" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11395101" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,13 +429,324 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交" />
+    <MESSAGE value="删除一个目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除一个目录" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/06 文件拷贝.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 修改文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/07 读写模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/09 追加读.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" lean-forward="true" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/02 ◊˜“µΩ≤Ω‚.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/03 基本文件操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/菜单">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/04 write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/05 append.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/06 文件拷贝.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 修改文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/02 ◊˜“µΩ≤Ω‚.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/03 基本文件操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/07 读写模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/04 write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/02 ◊˜“µΩ≤Ω‚.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/03 基本文件操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/04 write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/02 ◊˜“µΩ≤Ω‚.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="61" column="8" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/04 write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/04 write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/04 write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/logging模块.py" />
     <entry file="file://$PROJECT_DIR$/py练习/03 基本数据类型练习.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/02 ◊˜“µΩ≤Ω‚.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/菜单">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/alex">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/02 ªπ‘≠≥µªˆœ÷≥°.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" lean-forward="true" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/2018-09-12.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict/code/day005  ◊÷µ‰/08  字典的嵌套.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict/code/day005  ◊÷µ‰/07 相关操作.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深浅copy/code/day007 ª˘¥° ˝æ›¿‡–Õ≤π≥‰/07 深浅copy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深浅copy/code/day007 ª˘¥° ˝æ›¿‡–Õ≤π≥‰/05 fromkeys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深浅copy/code/day007 ª˘¥° ˝æ›¿‡–Õ≤π≥‰/06 set集合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/01 ΩÒ»’ƒ⁄»›¥Û∏Ÿ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict/code/day005  ◊÷µ‰/02 作业讲解.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-337" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/09 追加读.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/11 truncate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/13 日志处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/03 基本文件操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/04 write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/04  ∫Ø ˝.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/火锅">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/∏Ì¥ÒÃ¿">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数入门/code/day009 ∫Ø ˝»Î√≈/03 ◊˜“µ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/05 append.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/06 文件拷贝.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/10 光标.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/08 写读模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/07 读写模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/code/day008 Œƒº˛≤Ÿ◊˜/12 修改文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
         </state>
       </provider>
     </entry>

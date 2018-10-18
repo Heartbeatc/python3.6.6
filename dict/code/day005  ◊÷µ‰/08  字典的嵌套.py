@@ -13,7 +13,10 @@ wf = {
     ]
 }
 
-wf['wife']['age'] = wf['wife']['age'] + 10
-print(wf)
+print(wf["children"][0]['num'])
+
+
+# wf['wife']['age'] = wf['wife']['age'] + 10
+# print(wf)
 
 
